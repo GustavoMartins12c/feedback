@@ -25,6 +25,20 @@ body{
     align-items: center;
 }
 
+.card h1{
+    color: var(--white);
+    font-size: 28px;
+    margin-bottom: 30px;
+}
+
+.card p {
+    color: var(--light-grey);
+    font-size: 15px;
+    line-height: 24px;
+    margin-bottom: 24px;
+}
+
+
 .card{
     background: var(--black-gradient);
     max-width: 412px;
